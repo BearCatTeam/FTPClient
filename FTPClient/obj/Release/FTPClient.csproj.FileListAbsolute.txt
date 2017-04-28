@@ -1,0 +1,27 @@
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\FTPClient.exe.config
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\Assets\BrowserIcon.ico
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\FTPClient.exe
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\FTPClient.pdb
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.FTPApplication.resources
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.Properties.Resources.resources
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.csproj.GenerateResource.Cache
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.exe
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.pdb
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\FTPClient.exe.manifest
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\bin\Release\FTPClient.application
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.exe.manifest
+E:\INFORMATION PROCESSING\Snail\FTPClient\FTPClient\obj\Release\FTPClient.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\FTPClient.exe.config
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\Assets\BrowserIcon.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\FTPClient.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\FTPClient.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\FTPClient.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\bin\Release\FTPClient.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.FTPApplication.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.Properties.Resources.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 4 - FTP Client\FTPClient\FTPClient\obj\Release\FTPClient.application
